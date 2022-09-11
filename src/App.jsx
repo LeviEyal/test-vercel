@@ -21,7 +21,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Branch 1
+          Branch 2
         </p>
       </div>
       <p className="read-the-docs">
